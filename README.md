@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhab99
 - 👀 I’m interested in Virtual Reality (VR)
 Machine learning (ML) Deep learning (DL) Computer Vision (CV)
-- 🌱 I’m currently learning Machine learning (ML) Computer Vision (CV)
+- 🌱 I’m currently learning Advanced Computer Vision (CV) (Object Detection / Image Segmentation)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohab.mohamed02@icloud.com
 
